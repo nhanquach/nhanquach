@@ -5,7 +5,7 @@
 
 - Checkout some of my works
   - [Cau chuyen hay](https://cauchuyenhay.netlify.app/): A bedtime story website offering a curated collection for an enchanting bedtime experience, catering to readers of all ages.
-  - [The Infinte Mokey theorem using Genetic Algorithm](https://github.com/nhanquach/GA-Monkey-Example): Given infinite time, a monkey on a typewriter can, theoretically, produce any text through random key presses.
+  - [The Infinte Monkey theorem using Genetic Algorithm](https://github.com/nhanquach/GA-Monkey-Example): Given infinite time, a monkey on a typewriter can, theoretically, produce any text through random key presses.
   
 
 - 💬 Ask me about **react, javascript**
